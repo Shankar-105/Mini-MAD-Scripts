@@ -15,7 +15,7 @@
         android:scaleType="centerCrop"
         android:background="#DDDDDD"
         android:contentDescription="Your Profile Picture"
-        android:src="@drawable/my_profile_pic" />  <!-- We'll change this -->
+        android:src="@drawable/my_pic" />  <!-- We'll change this -->
 
     <!-- Space between image and text -->
     <View
