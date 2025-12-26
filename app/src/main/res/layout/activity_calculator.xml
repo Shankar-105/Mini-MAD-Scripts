@@ -32,11 +32,23 @@
             android:gravity="center" />
     </LinearLayout>
 
+    <!-- Small expression line (previous + operator) -->
+    <TextView
+        android:id="@+id/tvExpression"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:text=""
+        android:textSize="20sp"
+        android:textColor="#BDBDBD"
+        android:gravity="end|center_vertical"
+        android:paddingEnd="24dp"
+        android:visibility="gone" />
+
     <!-- Display -->
     <TextView
         android:id="@+id/tvDisplay"
         android:layout_width="match_parent"
-        android:layout_height="180dp"
+        android:layout_height="120dp"
         android:text="0"
         android:textSize="56sp"
         android:gravity="end|bottom"

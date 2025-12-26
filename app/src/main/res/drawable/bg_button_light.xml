@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <!-- Very light background for number buttons -->
+    <solid android:color="#F5F5F5" />
+    <!-- Large corner radius to get pill / circular look on most devices -->
+    <corners android:radius="40dp" />
+    <!-- Minimum size to keep buttons reasonably big on phones -->
+    <size android:width="72dp" android:height="72dp" />
+    <padding android:left="8dp" android:top="8dp" android:right="8dp" android:bottom="8dp"/>
+</shape>
