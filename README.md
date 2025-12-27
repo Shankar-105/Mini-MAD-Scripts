@@ -14,6 +14,17 @@ Quick highlights:
 This repository contains educational practice projects — intentionally simple so you can read, modify, and learn quickly. These are not production apps; they are my collage lab exercises and concept demos.
 
 ---
+## ▶️ Quick run — try the sample APK (Android Mobile)
+
+If you want to quickly see an app output without opening the project in Android Studio, you can download and install the sample APK provided here.
+
+- Download the sample APK: [Download sample APK](https://github.com/Shankar-105/Mini-MAD-Scripts/blob/main/apk_download/app-debug.apk)
+
+(Tap this link on your Android device — it will direct you to where the apk is and to the right on the status bar you will see a donwload button click it and the APK file will be downloaded on your android device and click the file and install it.)
+
+Note: Android will often warn that this app is "from an unknown source" or "may be harmful" when installing APKs that weren't obtained from an official store (like Google Play) and that's obvious nothing to worry about just turn on install apps from this source and install the apk and the app will be downloaded.
+
+---
 
 ## 🧭 Key files & where to look (simple, beginner-friendly)
 
