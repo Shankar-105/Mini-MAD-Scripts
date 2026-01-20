@@ -22,5 +22,9 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.btnCalculator).setOnClickListener(v -> {
             startActivity(new Intent(MainActivity.this, CalculatorActivity.class));
         });
+
+        findViewById(R.id.btnAdd).setOnClickListener(v -> {
+            startActivity(new Intent(MainActivity.this, AdditionActivity.class));
+        });
     }
 }
